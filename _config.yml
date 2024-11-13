@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/DEA6A00EFFAC5394705DF3A4140A80B3.png"
+  avatar           : "DEA6A00EFFAC5394705DF3A4140A80B3.png"
   name             : "Haoyu Wang"
   pronouns         : # example: "she/her"  
   bio              : "I am a  junior undergraduate majoring in automation from Southern University of Science and Technology"
