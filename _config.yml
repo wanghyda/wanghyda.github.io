@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "A junior undergraduate majoring in automation from Southern University of Science and Technology"
   location         : "ShenZhen, China "
-  employer         : "Southern University of Science and Technology"
+  employer         : "SUSTech"
   uri              : # URL
   email            : "wanghy2022@mail.sustech.edu.cn" 
 
@@ -128,7 +128,7 @@ alexa_site_verification  :
 yandex_site_verification :
 
 
-# Social Sharing
+#Social Sharing
 twitter:
   username               : &twitter
 facebook:
