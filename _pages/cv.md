@@ -15,12 +15,19 @@ Education
 *Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014 
 -->
-* Southern University of Science and Technology , Sep. 2022 – Jul. 2026 (Expected)
-* Major: B.Eng Automation | School of Automation and Intelligent Manufacturing |
-* Core courses: Intelligent Sensors and Signal Processing (93) | System Modelling and Simulation (91) |
-  Mathematical Foundations of Control Engineering (94) | Digital Circuits Laboratory (94) |
-  Analog Circuits Laboratory (94) | AI and Machine Learning | Feedback Control Theory |
-  Introduction to C Programming
+**Southern University of Science and Technology**  
+*Sep. 2022 – Jul. 2026 (Expected)*  
+**Major**: B.Eng Automation | School of Automation and Intelligent Manufacturing  
+<!--**GPA**: 83.36/100-->  
+**Core Courses**:  
+- Intelligent Sensors and Signal Processing (93)  
+- System Modelling and Simulation (91)  
+- Mathematical Foundations of Control Engineering (94)  
+- Digital Circuits Laboratory (94)  
+- Analog Circuits Laboratory (94)  
+- AI and Machine Learning  
+- Feedback Control Theory  
+- Introduction to C Programming 
 
 Projects Experience
 ======
@@ -67,33 +74,44 @@ Projects Experience
 - Implemented autonomous cruise control and distance sensing using Python and C++.
 
   
-Skills
+Internships
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### AI Algorithm Engineer Intern, Bosch Rexroth Electronic Motion & Control Ltd, Xi'an  
+*Jul. 2024 - Sep. 2024*  
+- Developed industrial vision platform for production line defect detection using YOLOv5-based algorithms.  
+- Responsible for algorithm development and optimization in machine vision monitoring system.  
+- Implemented end-to-end visual inspection solutions for quality control in industrial manufacturing settings.
 
-Publications
+### HR Management Intern, Schneider Electric Equipment Ltd, Xi'an  
+*Jun. 2023 - Aug. 2023*  
+- Led the planning and execution of 2023 Family Open Day event, successfully managing over 400 participants.  
+- Organized and facilitated multiple training programs including management trainee development and 5S production line evaluation training.  
+- Gained comprehensive experience in corporate culture training and large-scale event planning.
+
+Extracurricular Activity
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+ ### Ming Hang Voluntary Teaching Association, Director of External Relations  
+*Sep. 2023 - Sep. 2024*  
+- Led two major teaching campaigns as team leader in summer 2023 and participant in winter 2024.  
+- Coordinated with external organizations and managed volunteer recruitment and training programs.
+
+### Shuren College Leadership Positions  
+*Sep. 2023 - Jun. 2024*  
+- Served as Class Monitor and Youth League Secretary for Class 2230.  
+- Led Community Service Department as Deputy Director, organizing multiple volunteer activities.  
+- Managed Xiaoshumiao Volunteer Team as Team Leader, coordinating regular service events.
+
+### Campus Organizations  
+*Sep. 2022 - Present*  
+- Vice President of SUSTech Maple Tea Society, organizing cultural exchange activities.  
+- Committee Member of Shuren College Community Management Committee.  
+- Active member of various college-level volunteer programs and community service initiatives.
+
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Awards
+- **Third Prize** - "National Electronic Design Competition for University Students on the Frontiers of Information Science and Technology". *Aug. 2024*  
+- **Top Ten** - "Volunteers of Southern University of Science and Technology". *Nov. 2023*
+
+## Professional Skills
+- **Programming Languages**: Python, C, C++, MATLAB, JS  
+- **Tools & Platforms**: ROS, Linux, CODESYS, Multisim  
