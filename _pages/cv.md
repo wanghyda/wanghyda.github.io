@@ -90,7 +90,7 @@ Internships
 
 Extracurricular Activity
 ======
- ### Ming Hang Voluntary Teaching Association, Director of External Relations  
+### Ming Hang Voluntary Teaching Association, Director of External Relations  
 *Sep. 2023 - Sep. 2024*  
 - Led two major teaching campaigns as team leader in summer 2023 and participant in winter 2024.  
 - Coordinated with external organizations and managed volunteer recruitment and training programs.
@@ -108,10 +108,12 @@ Extracurricular Activity
 - Active member of various college-level volunteer programs and community service initiatives.
 
   
-## Awards
-- **Third Prize** - "National Electronic Design Competition for University Students on the Frontiers of Information Science and Technology". *Aug. 2024*  
-- **Top Ten** - "Volunteers of Southern University of Science and Technology". *Nov. 2023*
+Awards
+======
+- Third Prize** - "National Electronic Design Competition for University Students on the Frontiers of Information Science and Technology". *Aug. 2024*  
+- Top Ten** - "Volunteers of Southern University of Science and Technology". *Nov. 2023*
 
-## Professional Skills
-- **Programming Languages**: Python, C, C++, MATLAB, JS  
-- **Tools & Platforms**: ROS, Linux, CODESYS, Multisim  
+Professional Skills
+======
+- Programming Languages**: Python, C, C++, MATLAB, JS  
+- Tools & Platforms**: ROS, Linux, CODESYS, Multisim  
