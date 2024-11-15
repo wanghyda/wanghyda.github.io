@@ -110,10 +110,10 @@ Extracurricular Activity
   
 Awards
 ======
-- Third Prize** - "National Electronic Design Competition for University Students on the Frontiers of Information Science and Technology". *Aug. 2024*  
-- Top Ten** - "Volunteers of Southern University of Science and Technology". *Nov. 2023*
+- Third Prize - "National Electronic Design Competition for University Students on the Frontiers of Information Science and Technology". *Aug. 2024*  
+- Top Ten - "Volunteers of Southern University of Science and Technology". *Nov. 2023*
 
 Professional Skills
 ======
-- Programming Languages**: Python, C, C++, MATLAB, JS  
-- Tools & Platforms**: ROS, Linux, CODESYS, Multisim  
+- Programming Languages: Python, C, C++, MATLAB, JS  
+- Tools & Platforms: ROS, Linux, CODESYS, Multisim  
