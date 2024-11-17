@@ -20,13 +20,14 @@ Education
 **Major**: B.Eng Automation | School of Automation and Intelligent Manufacturing  
 <!--**GPA**: 83.36/100-->  
 **Core Courses**:  
-- Intelligent Sensors and Signal Processing (93)  
-- System Modelling and Simulation (91)  
-- Mathematical Foundations of Control Engineering (94)  
-- Digital Circuits Laboratory (94)  
-- Analog Circuits Laboratory (94)  
-- AI and Machine Learning  
+- AI and Machine Learning
 - Feedback Control Theory  
+- Intelligent Sensors and Signal Processing 
+- System Modelling and Simulation 
+- Mathematical Foundations of Control Engineering 
+- Digital Circuits 
+- Analog Circuits 
+
 - Introduction to C Programming 
 
 Projects Experience
