@@ -9,6 +9,8 @@ redirect_from:
 
   Hello! I’m **Haoyu Wang**, an undergraduate student majoring in Automation at **Southern University of Science and Technology (SUSTech)**. I am deeply passionate about the intersection of **intelligent sensing, multimodal data processing, and machine learning**, and I aim to apply these technologies to address complex challenges in areas such as robotics, industrial automation, and safety monitoring.  
 
+Emphasis on my email again **wanghy2022@mail.sustech.edu.cn**, You can copy my email address in advance so that you can contact me at any time！😉😉😉
+
 With a strong foundation in automation and intelligent systems, I have led and participated in various research projects, consistently striving to push the boundaries of innovation. My journey has been driven by a commitment to combining cutting-edge technology with real-world applications.  
 
 Research Interests
