@@ -17,6 +17,7 @@ My academic pursuits center around:
 - **Intelligent Sensing and Data Fusion**: Exploring how different sensing modalities can complement each other for improved system efficiency.  
 - **Edge Computing and Vision Systems**: Developing resource-efficient solutions for real-time applications.  
 - **Multimodal Interaction**: Integrating vision, sound, and environmental data for seamless human-machine collaboration.
+
 Of course, now I am still exploring some things that interest me, such as robot acoustics, robot clustering, etc. I like to keep exploring and learning. I believe in the power of **interdisciplinary research** and always seek opportunities to collaborate across domains. Detailed insights into my projects can be found in my [CV](./cv.md).  
 
 Leadership and Student Work 
