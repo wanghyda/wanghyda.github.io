@@ -23,7 +23,7 @@ Of course, now I am still exploring some things that interest me, such as robot 
 Leadership and Student Work 
 ======
 Beyond my academic work, I actively contribute to the university community as a **student leader** and **volunteer**. Here are some highlights of my extracurricular engagement:  
-- **Director of External Relations**, Ming Hang Voluntary Teaching Association: Successfully led large-scale teaching campaigns and built partnerships with external organizations.  
+- **Director of External Relations**, Ming Hang Voluntary Teaching Association: As a volunteer teacher, I have been to underdeveloped areas twice as a volunteer teacher, and I have tried my best to pass on the knowledge and skills I have learned to the children there.
 - **Youth League Secretary and Class Monitor**: Organized community-building activities and fostered a positive learning environment for my peers.  
 - **Vice President**, SUSTech Maple Tea Society: Promoted cultural exchange through creative events and initiatives.  
 
